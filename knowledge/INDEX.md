@@ -25,8 +25,9 @@ knowledge/
     ├── metadata/               ← 专辑元数据（JSON/CSV）
     │   ├── album_80612627_迷宫干饭人_双尾彗星.json (348集)
     │   └── album_77786765_双尾彗星本人_直播录像.json (310集)
-    └── transcripts/
-        └── 迷宫干饭人_双尾彗星/ ← Whisper转写文本 (5集/233K字)
+    ├── transcripts/
+    │   └── 迷宫干饭人_双尾彗星/ ← Whisper转写文本 (5集/233K字)
+    └── ../references/books/    ← 原书EPUB（日本史×2 + 怪诞行为学）见 books/README.md
 ```
 
 ---
@@ -128,6 +129,14 @@ knowledge/
 → 优先查阅：`quotes/双尾彗星名言.md` 中「个人成长与精进」「职业与职场」类
 → 补充查阅：`books/01-孙子兵法.md`（执行力、战略收缩）
 → 人际关系底层分析：`../references/research/08-fiske-relationships.md`（Fiske四种关系模型）
+
+---
+
+### 当你被问到：日本历史、日本社会、行为经济学、非理性决策
+
+→ 优先查阅：`quotes/双尾彗星名言.md` 中「人性与社会」「认知与理性」类
+→ 原书资料：`../references/books/`（宛如梦幻/高清日本史系列 = 日本史；怪诞行为学系列 = 行为经济学，均为彗星推荐，见 `books/README.md`）
+→ 补充查阅：`books/03-国富论.md`（经济行为）、`books/07-技术封建主义.md`（社会结构）
 
 ---
 
