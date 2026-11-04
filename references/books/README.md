@@ -10,14 +10,30 @@
 | 宛如梦幻（赤军） | 3册 | 日本历史 | 双尾彗星推荐的研究日本历史资料，本人读过 |
 | 高清日本史系列（樱雪丸） | 10册 | 日本历史 | 双尾彗星推荐的研究日本历史资料，本人读过 |
 | 怪诞行为学系列（丹·艾瑞里） | 6册 | 行为经济学/社会学 | 双尾彗星（社会学专业）推荐的社会学入门资料 |
+| **国富论（Adam Smith，英文原版）** | 1册（含 TXT + EPUB） | 经济学奠基 / 财富分配 / 财商 | 彗星思想源头之一；**中译普遍质量差，故收英文原文**（用户 2026-11-04 指定） |
 
 ## 用途
 
-- 双尾彗星多次在直播/视频中引用日本史与行为经济学的案例
+- 双尾彗星多次在直播/视频中引用日本史、行为经济学、经济学的案例
 - 回答日本历史、社会行为、非理性决策类问题时，可查阅原书内容做深挖
-- 与 `knowledge/books/`（七书精华）配合使用：精华库给框架，EPUB 给原文
+- 与 `knowledge/books/`（**十一本**精华）配合使用：精华库给框架，原书给原文
+
+## 国富论英文原版（2026-11-04 新增）
+
+| 项 | 内容 |
+|---|---|
+| 文件 | `国富论（英文原版）-Adam Smith.epub`（972 KB）· `国富论（英文原版）-Adam Smith.txt`（2.47 MB） |
+| 全名 | An Inquiry into the Nature and Causes of the Wealth of Nations |
+| 来源 | Project Gutenberg **#3300**，https://www.gutenberg.org/ebooks/3300 |
+| 授权 | Public domain in the USA（Gutenberg License，可自由复制转发） |
+| 完整性 | 五篇俱全（Book I~V + Introduction），243 万字符；EPUB 内 54 个正文 XHTML |
+| 为什么用英文 | 中译本术语不统一（`stock` 被混译成资本/存货/资财）、长句断错、译者注混入正文。要引原文必须回英文 |
+
+**查阅指引**：详见 `knowledge/books/03-国富论.md` 末尾的「英文原版查阅指南」——按五篇列出各篇主题，
+其中**第二篇（Of the Nature, Accumulation, and Employment of Stock）对应「个人财富分配 / 财商」**。
 
 ## 备注
 
+- 国富论 TXT 为 18 世纪英式拼写（`labour` / `publick`），检索时两种拼法都试
 - EPUB 为电子书格式，可用 Calibre / 浏览器插件 / Python ebooklib 提取正文
 - 如需提取某书特定章节内容做引用，告诉我要查哪本哪部分即可
