@@ -24,3 +24,10 @@ Thumbs.db
 *.swp
 # 个人画像（隐私，不进版本库）
 *.local.md
+
+# 原书文件（版权：只本地保留，不进版本库；知识要点在 knowledge/books/）
+references/books/*.epub
+references/books/*.pdf
+references/books/*.txt
+references/books/_旧版本/
+references/books/国富论英语版翻译.md
